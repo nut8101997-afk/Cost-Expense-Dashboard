@@ -5,16 +5,11 @@ Background in Pharmaceutical Quality Assurance
 ---
 
 ## 🔧 Skills
-- Data Analysis  
-- Data Visualization  
-- Data Validation  
-- Dashboard Design  
-
----
-
-## 🛠 Tools
-Excel | Power BI | Python (Basic) | Power Automate  
-
+- Advanced Excel PivotTables, Power Query, VBA
+- Power BI  Dashboard Development, DAX, Data Visualization
+- Power Automate Workflow Automation, Process Optimization, RPA
+- Python  Automation Scripts, Pandas, NumPy
+ 
 ---
 
 ## Portfolio Projects
