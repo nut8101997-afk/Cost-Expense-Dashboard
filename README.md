@@ -21,7 +21,7 @@ Excel | Power BI | Python (Basic) | Power Automate
 
 ### 📊 Cost & Expense Dashboard
 - Built an interactive Power BI dashboard to track cost performance across Monthly, YTD, and Distribution views
-- Monitored Actual vs Forecast (AOP) to identify variances and support budget control
+- Monitored Actual vs Forecast to identify variances and support budget control
 - Designed key KPIs including Amount variance, Costing %, and Actual vs Forecast comparison
 - Cleaned and transformed data using Power Query to ensure accuracy and consistency
 - Enabled dynamic filtering by Month, Year, and G/L Account for flexible analysis
