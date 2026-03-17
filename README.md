@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Wanut
-- I’m currently working in Pharmaceutical Quality Assurance, with a strong focus on data analysis and reporting.
-- 💡 I enjoy working with data, building dashboards, and transforming complex information into clear, actionable insights.
+**I’m currently working in Pharmaceutical Quality Assurance, with a strong focus on data analysis and reporting.**  
+💡 I enjoy working with data, building dashboards, and transforming complex information into clear, actionable insights.
 
 
 
