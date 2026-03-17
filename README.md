@@ -1,6 +1,3 @@
-<img width="1162" height="652" alt="Screenshot 2026-03-17 140322" src="https://github.com/user-attachments/assets/eae5582e-6a7a-4421-8364-f43209492ad1" />
-<img width="1162" height="650" alt="Screenshot 2026-03-17 140244" src="https://github.com/user-attachments/assets/9bff4434-63ed-4f2c-b042-df455135ae81" />
-
 # 👋 Hello, I'm Wanut
 **Data / Business Intelligence Enthusiast**  
 Background in Pharmaceutical Quality Assurance  
@@ -38,3 +35,5 @@ Background in Pharmaceutical Quality Assurance
 
 ## 📫 Contact
 - Email: nut8101997@gmail.com
+<img width="1162" height="652" alt="Screenshot 2026-03-17 140322" src="https://github.com/user-attachments/assets/eae5582e-6a7a-4421-8364-f43209492ad1" />
+<img width="1162" height="650" alt="Screenshot 2026-03-17 140244" src="https://github.com/user-attachments/assets/9bff4434-63ed-4f2c-b042-df455135ae81" />
