@@ -1,5 +1,3 @@
-# Cost-Expense-Dashboard
-
 # Hello, I'm Wanut 👋
 Data / Business Intelligence Enthusiast  
 Background in Pharmaceutical Quality Assurance  
