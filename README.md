@@ -35,8 +35,8 @@ Background in Pharmaceutical Quality Assurance
 
 ## 📫 Contact
 - Email: nut8101997@gmail.com
-<img width="1162" height="652" alt="Screenshot 2026-03-17 140322" src="https://github.com/user-attachments/assets/eae5582e-6a7a-4421-8364-f43209492ad1" />
+<img width="1158" height="650" alt="Screenshot 2026-03-17 152653" src="https://github.com/user-attachments/assets/2e9cf403-3541-4143-989e-7594fe7a5e66" />
 
-<img width="1162" height="650" alt="Screenshot 2026-03-17 140852" src="https://github.com/user-attachments/assets/4ba4feac-733c-40df-97c7-50dcbba9a9db" />
+<img width="1160" height="648" alt="Screenshot 2026-03-17 152722" src="https://github.com/user-attachments/assets/0d7397fd-26f3-4a11-8e1f-0cb3764db8e9" />
 
-<img width="1162" height="650" alt="Screenshot 2026-03-17 140244" src="https://github.com/user-attachments/assets/9bff4434-63ed-4f2c-b042-df455135ae81" />
+<img width="1162" height="655" alt="Screenshot 2026-03-17 152808" src="https://github.com/user-attachments/assets/54a9dafe-d1ff-4ec4-8b59-8c266076af15" />
