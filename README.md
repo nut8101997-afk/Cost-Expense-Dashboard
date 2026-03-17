@@ -32,7 +32,6 @@ Excel | Power BI | Python (Basic) | Power Automate
 - Visualized cost breakdown by major categories such as labor, overhead, depreciation, and utilities
 
 ### 🎯 Business Value
-🎯 Business Value
 - Helped identify key cost drivers and expense trends
 - Improved visibility of financial performance for decision-making
 - Reduced manual data analysis by consolidating data into a single dashboard
